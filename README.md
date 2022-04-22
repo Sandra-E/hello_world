@@ -2,7 +2,7 @@
 ## Description
 <h3>Anwendung:</h3> "Hello World" ist ein kleines Computerprogramm, das auf möglichst einfache Weise zeigen soll, welche Anweisungen oder Bestandteile für ein vollständiges Programm in einer Programmiersprache benötigt werden, und somit einen ersten Einblick in die Syntax gibt.
 
-! [Screenshot] <img src="img/Anwendung_Code.PNG" />
+<img src="img/Anwendung_Code.PNG" />
 
 <h3>Voraussetzung:</h3> Installieren einer lokalen Programmierumgebung auf dem Computer.
 
